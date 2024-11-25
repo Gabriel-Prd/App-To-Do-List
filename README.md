@@ -38,7 +38,7 @@ Siga os passos abaixo para configurar o projeto:
    git clone https://github.com/seu-usuario/to-do-list.git
 2. Navegue até o diretório do projeto:
    ```bash
-   cd to-do-list
+   cd App-To-Do-List
 3. Inicie o servidor de desenvolvimento:
    ```bash
    mpx expo start
